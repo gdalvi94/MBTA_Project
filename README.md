@@ -42,7 +42,7 @@ identifying the recharge device used for the recharge action.
 
 1. Clone the github repository.
 
-  "https://github.com/SumanthW/MBTAProject.git"
+  "https://github.com/gdalvi94/MBTA_Project.git"
 
 2. Run DDL_DML_scripts.sql file to execute DDL and DML queries  
 
